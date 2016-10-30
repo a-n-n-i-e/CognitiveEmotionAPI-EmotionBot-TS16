@@ -1,0 +1,46 @@
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Bot Application1.dll.config
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Bot Application1.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Bot Application1.pdb
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Autofac.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Chronic.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Microsoft.Bot.Builder.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Microsoft.Bot.Connector.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Microsoft.ProjectOxford.Common.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Newtonsoft.Json.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\System.Net.Http.Extensions.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\System.Net.Http.Formatting.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\System.Net.Http.Primitives.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\System.Web.Http.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\System.Web.Http.WebHost.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Autofac.xml
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Microsoft.Bot.Builder.xml
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Microsoft.Bot.Connector.xml
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\Newtonsoft.Json.xml
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\System.Net.Http.Extensions.xml
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\System.Net.Http.Formatting.xml
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\System.Net.Http.Primitives.xml
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\System.Web.Http.xml
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\System.Web.Http.WebHost.xml
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\obj\Release\EmotionBotTS16.csproj.App.config
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\obj\Release\EmotionBotTS16.csprojResolveAssemblyReference.cache
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\obj\Release\Bot Application1.dll
+C:\Users\ayomori\documents\visual studio 2015\Projects\EmotionBotTS16\EmotionBotTS16\obj\Release\Bot Application1.pdb

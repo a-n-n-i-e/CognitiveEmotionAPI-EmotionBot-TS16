@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="EmotionBotTS16" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\ayomori\\Documents\\Visual\ Studio\ 2015\\Projects\\EmotionBotTS16\\EmotionBotTS16\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\ayomori\\Documents\\Visual\ Studio\ 2015\\Projects\\EmotionBotTS16\\EmotionBotTS16\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
